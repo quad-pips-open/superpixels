@@ -5,7 +5,7 @@
 </p>
 
 ## Introduction
-This is a C++/ROS2 implementation of superpixels-based oversegmentation. We adapted the [SLIC](https://ieeexplore.ieee.org/document/6205760) algorithm for sparse depth images.
+This is a C++/ROS2 implementation of superpixels-based oversegmentation. We adapted the [SLIC](https://ieeexplore.ieee.org/document/6205760) algorithm for sparse depth images to perform planar region segmentation for foothold planning.
 
 ## Dependencies
 
