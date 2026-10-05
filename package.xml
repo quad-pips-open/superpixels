@@ -5,12 +5,12 @@
   <description>The superpixels package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
-  <maintainer email="masselmeier3@todo.todo">masselmeier3</maintainer>
+  <maintainer email="">quadpips</maintainer>
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <license>TODO</license>
 
-  <author email="mass@gatech.edu">Max Asselmeier</author>
+  <author email="">Quadpips</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <build_depend>cmake_clang_tools</build_depend>
